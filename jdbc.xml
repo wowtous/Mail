@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<properties name="example" version="1.1">
+
+	<c3p0config>
+		<jdbcUrl>jdbc:sqlserver://127.0.0.1:1433;databaseName=DBCENTER</jdbcUrl>
+		<driverClass>com.microsoft.sqlserver.jdbc.SQLServerDriver</driverClass>
+		<user>sa</user>
+		<password>urpwd</password>
+		<initialPoolSize>5</initialPoolSize>
+		<maxPoolSize>10</maxPoolSize>
+		<autoCommitOnClose>true</autoCommitOnClose>
+	</c3p0config>
+
+</properties>

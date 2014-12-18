@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<content>
+<!-- 是否启用代理 1-启用 0-不启用 -->
+<config>
+	<key>Email_Proxy_Flag</key>
+	<value>1</value>
+</config>
+<config>
+	<key>Email_Proxy_Host</key>
+	<value>112.90.78.157</value>
+</config>
+<config>
+	<key>Email_Proxy_Port</key>
+	<value>80</value>
+</config>
+<!-- 使用邮箱的发送邮件服务器 -->
+<config>
+	<key>Email_Host</key>
+	<value>smtp.qq.com</value>
+</config>
+<!-- 使用邮箱的发送邮件端口号 -->
+<config>
+	<key>Email_Port</key>
+	<value>25</value>
+</config>
+<!-- 发信人 -->
+<config>
+	<key>Email_Sender</key>
+	<value>sendername</value>
+</config>
+<!-- 登录名 -->
+<config>
+	<key>Email_User</key>
+	<value>aa@qq.com</value>
+</config>
+<!-- 密码(加密) -->
+<config>
+	<key>Email_Pswd</key>
+	<value>erPeDOUdlaPqdKHxLTDLRQ==</value>
+</config>
+<!-- 发件人地址 -->
+<config>
+	<key>Email_From</key>
+	<value>aa@qq.com</value>
+</config>
+<!-- 收件人地址 split:"1@qq.com;2@qq.com..." -->
+<config>
+	<key>Email_To</key>
+	<value>871731@qq.com</value>
+</config>
+<!-- 抄送人地址 split:"1@qq.com;2@qq.com..." -->
+<config>
+	<key>Email_Cc</key>
+	<value>2010@126.com</value>
+</config>
+<!-- 邮件主题 -->
+<config>
+	<key>Email_Subject</key>
+	<value>your data</value>
+</config>
+<!-- 
+<config>
+	<key>FilePath</key>
+	<value>Email_Text.xlsx</value>
+</config>
+<config>
+	<key>AttachName</key>
+	<value>Email_Text.pdf</value>
+</config>
+ -->
+</content>
+
